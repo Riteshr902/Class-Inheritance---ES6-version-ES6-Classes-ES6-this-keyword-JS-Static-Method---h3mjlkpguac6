@@ -10,5 +10,5 @@ class Shape {
      }
 }
 
- export class using module.exports
+ //export class using module.exports
 module.exports = Shape;
